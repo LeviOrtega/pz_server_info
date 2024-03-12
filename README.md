@@ -1,1 +1,26 @@
 # pz_server_info
+
+    CustomStarterItems = {
+        unemployed = "Base.Plunger;Base.Bleach;Base.Crisps;Base.WaterBottleFull",
+        fireofficer = "HandAxe;Base.Crisps;Base.WaterBottleFull",
+        policeofficer = "Base.Pistol;Base.9mmClip;Base.Bullets9mm;Base.Bullets9mm;Base.Bullets9mm;Base.Bullets9mm;Base.Crisps;Base.WaterBottleFull",
+        parkranger = "HandAxe;Base.Crisps;Base.WaterBottleFull",
+        constructionworker = "Base.Hammer;Base.Saw;Base.NailsBox;Base.Crisps;Base.WaterBottleFull",
+        securityguard = "Base.Nightstick;Base.Torch;Base.Crisps;Base.WaterBottleFull",
+        carpenter = "Base.Hammer;Base.Saw;Base.NailsBox;Base.Crisps;Base.WaterBottleFull",
+        burglar = "Base.Crowbar;Base.Crisps;Base.WaterBottleFull",
+        chef = "Base.MeatCleaver;Base.Pan;Base.TinOpener;Base.Crisps;Base.WaterBottleFull",
+        repairman = "Base.Hammer;Base.Screwdriver;Base.NailsBox;Base.Crisps;Base.WaterBottleFull",
+        farmer = "farming.CabbageBagSeed;farming.PotatoBagSeed;farming.CarrotBagSeed;farming.HandShovel;farming.WateredCan;Base.Crisps;Base.WaterBottleFull",
+        fisherman = "Base.FishingRod;Base.FishingTackle;Base.FishingTackle;Base.FishingLine;Base.Crisps;Base.WaterBottleFull",
+        doctor = "Base.Golfclub;Base.Bandage;Base.Bandage;Base.Bandage;Base.Scalpel;Base.Tweezers;Base.Crisps;Base.WaterBottleFull",
+        veteran = "Base.DoubleBarrelShotgun;Base.ShotgunShells;Base.ShotgunShells;Base.HuntingKnife;Base.Crisps;Base.WaterBottleFull",
+        nurse = "Base.Bandage;Base.Bandage;Base.Bandage;Base.PillsBeta;Radio.PillsAntiDep;Base.PillsVitamins;Base.Crisps;Base.WaterBottleFull",
+        lumberjack = "Base.Axe;Base.Crisps;Base.WaterBottleFull",
+        fitnessInstructor = "Base.PillsVitamins;Base.BadmintonRacket;Base.Crisps;Base.WaterBottleFull",
+        burgerflipper = "Base.GridlePan;Base.Pan;Base.Crisps;Base.WaterBottleFull",
+        electrician = "Base.Screwdriver;Base.Crisps;Base.WaterBottleFull",
+        engineer = "Base.LeadPipe;Base.NoiseTrap;Base.Crisps;Base.WaterBottleFull",
+        metalworker = "Base.MetalPipe;Base.BlowTorch;Base.WeldingRods;Base.WeldingRods;Base.WeldingMask;Base.Crisps;Base.WaterBottleFull",
+        mechanics = "Base.Wrench;Base.Screwdriver;Base.Jack;Base.LugWrench;Base.Crisps;Base.WaterBottleFull",
+    }
